@@ -267,7 +267,7 @@ Este proyecto está bajo la Licencia MIT.
 
 ## 👥 Autores
 
-- Tu nombre aquí
+- Nelson E huayta Palma
 
 ## 🙏 Agradecimientos
 
